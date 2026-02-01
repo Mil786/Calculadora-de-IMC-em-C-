@@ -23,3 +23,7 @@ Este é um projeto de console desenvolvido em **C#** para calcular o Índice de 
 4. Digite o comando:
    ```bash
    dotnet run
+
+   --------------------------------------------
+   *Este projeto faz parte do meu portfólio de estudos em Beck-end.*
+
