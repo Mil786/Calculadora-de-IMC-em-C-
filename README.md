@@ -24,6 +24,6 @@ Este é um projeto de console desenvolvido em **C#** para calcular o Índice de 
    ```bash
    dotnet run
 
-   --------------------------------------------
-   *Este projeto faz parte do meu portfólio de estudos em Beck-end.*
+ --------------------------------------------
+*Este projeto faz parte do meu portfólio de estudos em Beck-end.*
 
